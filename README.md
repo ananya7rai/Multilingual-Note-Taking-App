@@ -1,1 +1,1 @@
-# Multilingual-Note-Taking-App
+# Multilingual Note Taking App
